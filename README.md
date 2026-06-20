@@ -1,6 +1,7 @@
 **GameHolic**
 
 **Overview**
+
 GameHolics is an interactive gaming web application developed for the Gateway Event conducted by the School of Computational Science.
 The platform provides an engaging gaming experience through multiple features including user registration, leaderboard tracking, face capture functionality, and score management.
 
